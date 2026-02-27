@@ -1,6 +1,4 @@
-public class UsernameAvailabilityChecker
-{
-    import java.util.*;
+import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
     public class UsernameAvailabilityChecker {
@@ -91,4 +89,4 @@ import java.util.concurrent.ConcurrentHashMap;
                     + checker.getMostAttempted());
         }
     }
-}
+
